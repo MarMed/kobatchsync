@@ -20,9 +20,10 @@ This plugin is designed to be fully compatible with both the official KOReader S
 
 ## 🛠️ Installation
 
-1. Download the [latest packaged zip file](kobatchsync.koplugin.zip) or clone this repository.
+1. Download the latest packaged release from the [GitHub Releases](https://github.com/<your-username>/kobatchsync/releases) page or clone this repository.
 2. Transfer or extract the `kobatchsync.koplugin` folder to your KOReader plugins directory:
-   - **Kindle / Kobo**: `/mnt/sdcard/koreader/plugins/kobatchsync.koplugin/`
+   - **Kobo**: `/mnt/onboard/.kobo/koreader/plugins/kobatchsync.koplugin/`
+   - **Kindle**: `/mnt/us/koreader/plugins/kobatchsync.koplugin/`
    - **Android**: `/sdcard/koreader/plugins/kobatchsync.koplugin/`
 3. Restart KOReader. The plugin will automatically register itself in the main menu under **Batch progress sync**.
 
