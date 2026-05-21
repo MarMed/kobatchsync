@@ -20,7 +20,7 @@ This plugin is designed to be fully compatible with both the official KOReader S
 
 ## 🛠️ Installation
 
-1. Download the latest packaged release from the [GitHub Releases](https://github.com/<your-username>/kobatchsync/releases) page or clone this repository.
+1. Download the latest packaged release from the [GitHub Releases](https://github.com/MarMed/kobatchsync/releases) page or clone this repository.
 2. Transfer or extract the `kobatchsync.koplugin` folder to your KOReader plugins directory:
    - **Kobo**: `/mnt/onboard/.kobo/koreader/plugins/kobatchsync.koplugin/`
    - **Kindle**: `/mnt/us/koreader/plugins/kobatchsync.koplugin/`
