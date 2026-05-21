@@ -1,0 +1,7 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Package files
+*.zip
+*.tar.gz
